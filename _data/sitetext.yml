@@ -61,40 +61,43 @@ en: &DEFAULT_EN
     body: |
         The following schedule is tentative.
 
-        ## Day 1: Neuro-symbolic methods
-        | Start Time | Session                             | Speaker(s)           |
-        | :--------: | :---------------------------------- | :------------------- |
-        | 08:45      | Opening Welcome Talk                | Workshop organizers  |
-        | 09:00      | Invited Talks 1 and 2               | TBA                  |
-        | 09:40      | Contributed Talks 1 (3 -- 4 papers) | TBA                  |
-        | 10:30      | Invited Talks 3 and 4               | TBA                  |
-        | 11:10      | Contributed Talks 2 (3 -- 4 papers) | TBA                  |
-        | 12:00      | Lunch Break (Poster Setup)          |                      |
-        | 13:00      | Invited Talks 5 and 6               | TBA                  |
-        | 13:40      | Contributed Talks 3 (4 -- 5 papers) | TBA                  |
-        | 15:00      | Poster Session 1                    |                      |
-        | 16:30      | Invited Talks 7 and 8               | TBA                  |
-        | 17:10      | Panel and Open QA 1                 |                      |
+    day1:
+        - [Start Time , Session                             , Speaker(s)                 ]
+        - [08:45      , Opening Welcome Talk                , Workshop organizers        ]
+        - [09:00      , Invited Talks 1 and 2               , TBA                        ]
+        - [09:40      , Contributed Talks 1 (3 -- 4 papers) , TBA                        ]
+        - [10:30      , Invited Talks 3 and 4               , TBA                        ]
+        - [11:10      , Contributed Talks 2 (3 -- 4 papers) , TBA                        ]
+        - [12:00      , Lunch Break (Poster Setup)          ,                            ]
+        - [13:00      , Invited Talks 5 and 6               , TBA                        ]
+        - [13:40      , Contributed Talks 3 (4 -- 5 papers) , TBA                        ]
+        - [15:00      , Poster Session 1                    ,                            ]
+        - [16:30      , Invited Talks 7 and 8               , TBA                        ]
+        - [17:10      , Panel and Open QA 1                 , All Day 1 invited speakers ]
 
-        ## Day 2: Neuro-symbolic applications
-        | Start Time | Session                             | Speaker(s)           |
-        | :--------: | :---------------------------------- | :------------------- |
-        | 09:00      | Invited Talks 9 and 10              | TBA                  |
-        | 09:40      | Contributed Talks 4 (3 -- 4 papers) | TBA                  |
-        | 10:30      | Coffee/Tea Break (Poster Setup)     |                      |
-        | 11:00      | Poster Session 2                    |                      |
-        | 12:30      | Panel and Open QA 2                 |                      |
+    day2:
+        - [Start Time , Session                             , Speaker(s)                 ]
+        - [09:00      , Invited Talks 9 and 10              , TBA                        ]
+        - [09:40      , Contributed Talks 4 (3 -- 4 papers) , TBA                        ]
+        - [10:30      , Invited Talks 11 and 12             , TBA                        ]
+        - [11:10      , Contributed Talks 5 (3 -- 4 papers) , TBA                        ]
+        - [12:00      , Lunch Break (Poster Setup)          ,                            ]
+        - [13:00      , Invited Talks 13 and 14             , TBA                        ]
+        - [13:40      , Contributed Talks 6 (4 -- 5 papers) , TBA                        ]
+        - [15:00      , Poster Session 2                    ,                            ]
+        - [16:30      , Invited Talks 15 and 16             , TBA                        ]
+        - [17:10      , Panel and Open QA 2                 , All Day 2 invited speakers ]
 
   call_for_papers:
     title: "Call for papers"
     section: call_for_papers
     body: |
-        ## Important dates
+        ### Important dates
          - Submission deadline: TBA
          - Aceptance notification: TBA
          - Camera-ready deadline: TBA
 
-        ## Submission instructions
+        ### Submission instructions
 
         We invite 8-page full paper or 4-page short paper submissions. We also welcome 2-page extended abstracts for the work that is published at AAAI or other venues. The papers should be formatted according to [AAAI conference guidelines](https://aaai.org/aaai-conference/submission-instructions/).
 

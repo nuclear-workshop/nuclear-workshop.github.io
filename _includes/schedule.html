@@ -10,7 +10,45 @@
     </div>
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <div class="large text-muted">{{ site.data.sitetext[site.locale].schedule.body | markdownify }}</div>
+        <div class="large text-muted">
+          {{ site.data.sitetext[site.locale].schedule.body | markdownify }}<br/>
+          <h3>Day 1: Neuro-symbolic methods</h3>
+          <table class="table">
+            <thead><tr>
+              {% for column_title in site.data.sitetext[site.locale].schedule.day1[0] %}
+              <th scope="col">{{ column_title }}</th>
+              {% endfor %}
+            </tr></thead>
+            <tbody>
+              {% for row in site.data.sitetext[site.locale].schedule.day1 offset:1 %}
+              <tr>
+                <th scope="row">{{ row[0] }}</th>
+                {% for item in row offset:1 %}
+                <td>{{ item }}</td>
+                {% endfor %}
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table><br/>
+          <h3>Day 2: Neuro-symbolic methods</h3>
+          <table class="table">
+            <thead><tr>
+              {% for column_title in site.data.sitetext[site.locale].schedule.day2[0] %}
+              <th scope="col">{{ column_title }}</th>
+              {% endfor %}
+            </tr></thead>
+            <tbody>
+              {% for row in site.data.sitetext[site.locale].schedule.day2 offset:1 %}
+              <tr>
+                <th scope="row">{{ row[0] }}</th>
+                {% for item in row offset:1 %}
+                <td>{{ item }}</td>
+                {% endfor %}
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   </div>
@@ -26,7 +64,45 @@
     </div>
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <div class="large text-muted">{{ site.data.sitetext.schedule.body | markdownify }}</div>
+        <div class="large text-muted">
+          {{ site.data.sitetext.schedule.body | markdownify }}<br/>
+          <h3>Day 1: Neuro-symbolic methods</h3>
+          <table class="table">
+            <thead><tr>
+              {% for column_title in site.data.sitetext.schedule.day1[0] %}
+              <th scope="col">{{ column_title }}</th>
+              {% endfor %}
+            </tr></thead>
+            <tbody>
+              {% for row in site.data.sitetext.schedule.day1 offset:1 %}
+              <tr>
+                <th scope="row">{{ row[0] }}</th>
+                {% for item in row offset:1 %}
+                <td>{{ item }}</td>
+                {% endfor %}
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table><br/>
+          <h3>Day 2: Neuro-symbolic methods</h3>
+          <table class="table">
+            <thead><tr>
+              {% for column_title in site.data.sitetext.schedule.day2[0] %}
+              <th scope="col">{{ column_title }}</th>
+              {% endfor %}
+            </tr></thead>
+            <tbody>
+              {% for row in site.data.sitetext.schedule.day2 offset:1 %}
+              <tr>
+                <th scope="row">{{ row[0] }}</th>
+                {% for item in row offset:1 %}
+                <td>{{ item }}</td>
+                {% endfor %}
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   </div>
