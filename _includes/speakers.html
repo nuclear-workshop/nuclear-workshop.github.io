@@ -12,7 +12,7 @@
   {% for person in site.data.sitetext[site.locale].speakers.people %}
 	<div class="col-sm-4">
 	  {% if person.website and person.website != "" and person.website != nil %}
-	  <a href="{{ person.website }}">
+	  <a href="{{ person.website }}" target="_blank">
 	  {% endif %}
 	  <div class="team-member">
 		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
@@ -21,7 +21,7 @@
 		<ul class="list-inline social-buttons">
 		{% for network in person.social %}
 		  <li class="list-inline-item">
-			<a href="{{ network.url }}">
+			<a href="{{ network.url }}" target="_blank">
 			  <i class="{{ network.icon }}"></i>
 			</a>
 		  </li>
@@ -54,7 +54,7 @@
 	  {% for person in site.data.sitetext.speakers.people %}
 		<div class="col-sm-4">
 		  {% if person.website and person.website != "" and person.website != nil %}
-		  <a href="{{ person.website }}">
+		  <a href="{{ person.website }}" target="_blank">
 		  {% endif %}
 		  <div class="team-member">
 			<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
@@ -63,7 +63,7 @@
 			<ul class="list-inline social-buttons">
 			{% for network in person.social %}
 			  <li class="list-inline-item">
-				<a href="{{ network.url }}">
+				<a href="{{ network.url }}" target="_blank">
 				  <i class="{{ network.icon }}"></i>
 				</a>
 			  </li>
