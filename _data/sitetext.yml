@@ -13,14 +13,14 @@ en: &DEFAULT_EN
   header:
     title: "**N**e**u**ro-Symboli**c** **Le**arning **a**nd **R**easoning in the era of Large Language Models"
     text: "@ AAAI 2024"
-    button: "Submit Your Paper!"
+    button: "Submit Your Paper"
     buttonlink: "#call_for_papers"
 
   about:
     title: "About"
     section: about
     body: |
-        We are thrilled to announce the Workshop on **N**e**u**ro-Symboli**c** **Le**arning **a**nd **R**easoning in the era of Large Language Models at AAAI 2024. provide a dedicated platform for researchers to present and share their cutting-edge advancements in the next generation of neuro-symbolic AI. By creating an environment conducive to knowledge exchange and the exploration of innovative ideas, we aim to foster collaboration and inspire new breakthroughs. We invite submissions on topics and questions related to neuro-symbolic AI, including but not limited to:
+        We are thrilled to announce the Workshop on **N**e**u**ro-Symboli**c** **Le**arning **a**nd **R**easoning in the era of Large Language Models at AAAI 2024 to be held on **February 26-27, 2024**. This workshop aims to provide a dedicated platform for researchers to present and share their cutting-edge advancements in the next generation of neuro-symbolic AI. By creating an environment conducive to knowledge exchange and the exploration of innovative ideas, we aim to foster collaboration and inspire new breakthroughs. We invite submissions on topics and questions related to neuro-symbolic AI, including but not limited to:
         - Survey of recent neuro-symbolic AI methods and applications
         - Neuro-symbolic approaches for learning and reasoning
         - Programming languages, libraries and software tools for integration of various learning and reasoning formalisms
@@ -30,8 +30,7 @@ en: &DEFAULT_EN
         - Deep learning and logical reasoning over structured and relational data
         - Integration of non-differentiable optimization models in learning
         - The role of neuro-symbolic AI in grounding LLMs, enhancing performance
-        - Can we train models using significantly less data while maintaining their performance?
-        - What are the ethical and social implications of neuro-symbolic AI in the context of large language models?
+        - Specific aspects of neuro-symbolic modeling, such as data efficiency, scalability, and evaluation benchmarks
         - Integration of expert knowledge in learning (e.g., fairness constraints, physics laws, FOL rules)
         - Strategies to address challenges related to compositional generalization using neuro-symbolic AI
         - We also welcome work on related topics (e.g., neural program synthesis, program induction, and concept learning)
@@ -56,10 +55,50 @@ en: &DEFAULT_EN
         image: assets/img/team/500x500.jpg
     subtext: This list is currently incomplete as we reach out to additional speakers.
 
+  schedule:
+    title: "Schedule"
+    section: schedule
+    body: |
+        The following schedule is tentative.
+
+        ## Day 1: Neuro-symbolic methods
+        | Start Time | Session                             | Speaker(s)           |
+        | :--------: | :---------------------------------- | :------------------- |
+        | 08:45      | Opening Welcome Talk                | Workshop organizers  |
+        | 09:00      | Invited Talks 1 and 2               | TBA                  |
+        | 09:40      | Contributed Talks 1 (3 -- 4 papers) | TBA                  |
+        | 10:30      | Invited Talks 3 and 4               | TBA                  |
+        | 11:10      | Contributed Talks 2 (3 -- 4 papers) | TBA                  |
+        | 12:00      | Lunch Break (Poster Setup)          |                      |
+        | 13:00      | Invited Talks 5 and 6               | TBA                  |
+        | 13:40      | Contributed Talks 3 (4 -- 5 papers) | TBA                  |
+        | 15:00      | Poster Session 1                    |                      |
+        | 16:30      | Invited Talks 7 and 8               | TBA                  |
+        | 17:10      | Panel and Open QA 1                 |                      |
+
+        ## Day 2: Neuro-symbolic applications
+        | Start Time | Session                             | Speaker(s)           |
+        | :--------: | :---------------------------------- | :------------------- |
+        | 09:00      | Invited Talks 9 and 10              | TBA                  |
+        | 09:40      | Contributed Talks 4 (3 -- 4 papers) | TBA                  |
+        | 10:30      | Coffee/Tea Break (Poster Setup)     |                      |
+        | 11:00      | Poster Session 2                    |                      |
+        | 12:30      | Panel and Open QA 2                 |                      |
+
   call_for_papers:
     title: "Call for papers"
     section: call_for_papers
-    text: "TODO"
+    text: |
+        ## Important dates
+         - Submission deadline: TBA
+         - Aceptance notification: TBA
+         - Camera-ready deadline: TBA
+
+        ## Submission instructions
+
+        We invite 8-page full paper or 4-page short paper submissions. We also welcome 2-page extended abstracts for the work that is published at AAAI or other venues. The papers should be formatted according to [AAAI conference guidelines](https://aaai.org/aaai-conference/submission-instructions/).
+
+        Submission link: TBA
 
   organizers:
     title: "Workshop organizers"
