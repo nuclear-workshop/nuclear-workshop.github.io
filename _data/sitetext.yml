@@ -88,7 +88,7 @@ en: &DEFAULT_EN
   call_for_papers:
     title: "Call for papers"
     section: call_for_papers
-    text: |
+    body: |
         ## Important dates
          - Submission deadline: TBA
          - Aceptance notification: TBA
