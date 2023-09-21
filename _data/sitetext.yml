@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: <b>N</b>e<b>u</b>ro-Symboli<b>c</b> <b>Le</b>arning <b>a</b>nd <b>R</b>easoning in the era of Large Language Models
+    title: "*N*e*u*ro-Symboli*c* *Le*arning *a*nd *R*easoning in the era of Large Language Models"
     text: @ AAAI 2024
     button: Submit Your Paper!
     buttonlink: "#call_for_papers"
@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About"
     section: about
-    text: We are thrilled to announce the Workshop on <b>N</b>e<b>u</b>ro-Symboli<b>c</b> <b>Le</b>arning <b>a</b>nd <b>R</b>easoning in the era of Large Language Models at AAAI 2024. provide a dedicated platform for researchers to present and share their cutting-edge advancements in the next generation of neuro-symbolic AI. By creating an environment conducive to knowledge exchange and the exploration of innovative ideas, we aim to foster collaboration and inspire new breakthroughs. We invite submissions on topics and questions related to neuro-symbolic AI, including but not limited to:
+    text: "We are thrilled to announce the Workshop on *N*e*u*ro-Symboli*c* *Le*arning *a*nd *R*easoning in the era of Large Language Models at AAAI 2024. provide a dedicated platform for researchers to present and share their cutting-edge advancements in the next generation of neuro-symbolic AI. By creating an environment conducive to knowledge exchange and the exploration of innovative ideas, we aim to foster collaboration and inspire new breakthroughs. We invite submissions on topics and questions related to neuro-symbolic AI, including but not limited to:
      - Survey of recent neuro-symbolic AI methods and applications
      - Neuro-symbolic approaches for learning and reasoning 
      - Programming languages, libraries and software tools for integration of various learning and reasoning formalisms
@@ -34,7 +34,7 @@ en: &DEFAULT_EN
      - What are the ethical and social implications of neuro-symbolic AI in the context of large language models?
      - Integration of expert knowledge in learning (e.g., fairness constraints, physics laws, FOL rules)
      - Strategies to address challenges related to compositional generalization using neuro-symbolic AI
-     - We also welcome work on related topics (e.g., neural program synthesis, program induction, and concept learning)
+     - We also welcome work on related topics (e.g., neural program synthesis, program induction, and concept learning)"
 
   speakers:
     title: "Invited speakers"
