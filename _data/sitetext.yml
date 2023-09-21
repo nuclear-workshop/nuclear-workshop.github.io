@@ -19,21 +19,22 @@ en: &DEFAULT_EN
   about:
     title: "About"
     section: about
-    body: "We are thrilled to announce the Workshop on **N**e**u**ro-Symboli**c** **Le**arning **a**nd **R**easoning in the era of Large Language Models at AAAI 2024. provide a dedicated platform for researchers to present and share their cutting-edge advancements in the next generation of neuro-symbolic AI. By creating an environment conducive to knowledge exchange and the exploration of innovative ideas, we aim to foster collaboration and inspire new breakthroughs. We invite submissions on topics and questions related to neuro-symbolic AI, including but not limited to:\
-     - Survey of recent neuro-symbolic AI methods and applications\
-     - Neuro-symbolic approaches for learning and reasoning\
-     - Programming languages, libraries and software tools for integration of various learning and reasoning formalisms\
-     - Declarative languages for machine learning\
-     - Natural language to machine learning code\
-     - Using probabilistic inference or logical inference in training deep models\
-     - Deep learning and logical reasoning over structured and relational data\
-     - Integration of non-differentiable optimization models in learning\
-     - The role of neuro-symbolic AI in grounding LLMs, enhancing performance\
-     - Can we train models using significantly less data while maintaining their performance?\
-     - What are the ethical and social implications of neuro-symbolic AI in the context of large language models?\
-     - Integration of expert knowledge in learning (e.g., fairness constraints, physics laws, FOL rules)\
-     - Strategies to address challenges related to compositional generalization using neuro-symbolic AI\
-     - We also welcome work on related topics (e.g., neural program synthesis, program induction, and concept learning)"
+    body: |
+        We are thrilled to announce the Workshop on **N**e**u**ro-Symboli**c** **Le**arning **a**nd **R**easoning in the era of Large Language Models at AAAI 2024. provide a dedicated platform for researchers to present and share their cutting-edge advancements in the next generation of neuro-symbolic AI. By creating an environment conducive to knowledge exchange and the exploration of innovative ideas, we aim to foster collaboration and inspire new breakthroughs. We invite submissions on topics and questions related to neuro-symbolic AI, including but not limited to:
+        - Survey of recent neuro-symbolic AI methods and applications
+        - Neuro-symbolic approaches for learning and reasoning
+        - Programming languages, libraries and software tools for integration of various learning and reasoning formalisms
+        - Declarative languages for machine learning
+        - Natural language to machine learning code
+        - Using probabilistic inference or logical inference in training deep models
+        - Deep learning and logical reasoning over structured and relational data
+        - Integration of non-differentiable optimization models in learning
+        - The role of neuro-symbolic AI in grounding LLMs, enhancing performance
+        - Can we train models using significantly less data while maintaining their performance?
+        - What are the ethical and social implications of neuro-symbolic AI in the context of large language models?
+        - Integration of expert knowledge in learning (e.g., fairness constraints, physics laws, FOL rules)
+        - Strategies to address challenges related to compositional generalization using neuro-symbolic AI
+        - We also welcome work on related topics (e.g., neural program synthesis, program induction, and concept learning)
 
   speakers:
     title: "Invited speakers"
