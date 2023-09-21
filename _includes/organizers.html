@@ -1,6 +1,6 @@
 <!-- Organizers -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
-<section class="page-section" id="{{ site.data.sitetext[site.locale].organizers.section | default: "organizers" }}">
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].organizers.section | default: "organizers" }}">
 <div class="container">
   <div class="row">
 	<div class="col-lg-12 text-center">
@@ -11,6 +11,9 @@
   <div class="row d-flex justify-content-center">
   {% for person in site.data.sitetext[site.locale].organizers.people %}
 	<div class="col-sm-4">
+	  {% if person.website and person.website != "" and person.website != nil %}
+	  <a href="{{ person.website }}">
+	  {% endif %}
 	  <div class="team-member">
 		<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
 		<h4>{{ person.name }}</h4>
@@ -25,6 +28,9 @@
 		{% endfor %}
 		</ul>
 	  </div>
+	  {% if person.website and person.website != "" and person.website != nil %}
+	  </a>
+	  {% endif %}
 	</div>
   {% endfor %}
   </div>
@@ -47,6 +53,9 @@
 	  <div class="row d-flex justify-content-center">
 	  {% for person in site.data.sitetext.organizers.people %}
 		<div class="col-sm-4">
+		  {% if person.website and person.website != "" and person.website != nil %}
+		  <a href="{{ person.website }}">
+		  {% endif %}
 		  <div class="team-member">
 			<img class="mx-auto rounded-circle" src="{{ person.image }}" alt="">
 			<h4>{{ person.name }}</h4>
@@ -61,6 +70,9 @@
 			{% endfor %}
 			</ul>
 		  </div>
+		  {% if person.website and person.website != "" and person.website != nil %}
+		  </a>
+		  {% endif %}
 		</div>
 	  {% endfor %}
 	  </div>

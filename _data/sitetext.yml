@@ -39,18 +39,21 @@ en: &DEFAULT_EN
   speakers:
     title: "Invited speakers"
     #text: "Lorem ipsum dolor sit amet consectetur."
-    #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: speakers
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Gary Marcus"
+        role: "New York University"
         image: assets/img/team/500x500.jpg
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Parisa Kordjamshidi"
+        role: "Michigan State University"
         image: assets/img/team/500x500.jpg
+      - name: "David Ferrucci"
+        role: "Elemental Cognition"
+        image: assets/img/team/500x500.jpg
+      - name: "Luis Lamb"
+        role: "Federal University of Rio Grande do Sul"
+        image: assets/img/team/500x500.jpg
+    subtext: This list is currently incomplete as we reach out to additional speakers.
 
   call_for_papers:
     title: "Call for papers"
@@ -63,14 +66,20 @@ en: &DEFAULT_EN
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: organizers
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Asim Munawar"
+        role: "IBM Research"
         image: assets/img/team/500x500.jpg
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Elham J. Barezi"
+        role: "Michigan State University"
+        image: assets/img/team/500x500.jpg
+      - name: "Pranava Madhyastha"
+        role: "City, University of London"
+        image: assets/img/team/500x500.jpg
+      - name: "Abulhair Saparov"
+        role: "New York University"
+        image: assets/img/team/500x500.jpg
+      - name: "Alexander Gray"
+        role: "IBM Research"
         image: assets/img/team/500x500.jpg
 
   #contact:
