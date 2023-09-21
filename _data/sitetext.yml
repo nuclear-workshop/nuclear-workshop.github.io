@@ -47,6 +47,7 @@ en: &DEFAULT_EN
       - name: "Parisa Kordjamshidi"
         role: "Michigan State University"
         image: assets/img/team/500x500.jpg
+        website: https://www.cse.msu.edu/~kordjams/
       - name: "David Ferrucci"
         role: "Elemental Cognition"
         image: assets/img/team/500x500.jpg
@@ -69,18 +70,23 @@ en: &DEFAULT_EN
       - name: "Asim Munawar"
         role: "IBM Research"
         image: assets/img/team/500x500.jpg
+        website: https://research.ibm.com/people/asim-munawar
       - name: "Elham J. Barezi"
         role: "Michigan State University"
         image: assets/img/team/500x500.jpg
+        website: https://www.linkedin.com/in/elham-barezi-15272453/
       - name: "Pranava Madhyastha"
         role: "City, University of London"
         image: assets/img/team/500x500.jpg
+        website: https://www.city.ac.uk/about/people/academics/pranava-madhyastha
       - name: "Abulhair Saparov"
         role: "New York University"
         image: assets/img/team/500x500.jpg
+        website: https://asaparov.org/
       - name: "Alexander Gray"
         role: "IBM Research"
         image: assets/img/team/500x500.jpg
+        website: https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Alexander.Gray
 
   #contact:
     #title: "Contact Us"
