@@ -12,20 +12,24 @@ header.masthead {
     padding-top: 45px;
     padding-bottom: 40px;
     .intro-lead-in {
-      font-size: 40px;
+      font-size: 22px;
       font-style: italic;
       line-height: 22px;
       margin-bottom: 15px;
       @include serif-font;
+	  br { display: none }
     }
     .intro-heading {
-      font-size: 50px;
+      font-size: 40px;
       font-weight: 700;
       line-height: 50px;
       margin-bottom: 20px;
       @include heading-font;
     }
   }
+}
+.btn-xl {
+  padding: 10px 25px;
 }
 @media (min-width: 768px) {
   header.masthead {
@@ -39,6 +43,7 @@ header.masthead {
         line-height: 40px;
         margin-bottom: 25px;
         @include serif-font;
+	    br { display: inline }
       }
       .intro-heading {
         font-size: 75px;
@@ -48,5 +53,8 @@ header.masthead {
         @include heading-font;
       }
     }
+  }
+  .btn-xl {
+    padding: 20px 40px;
   }
 }

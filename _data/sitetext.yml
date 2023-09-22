@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: "**N**e**u**ro-Symboli**c** **Le**arning **a**nd **R**easoning<br/>in the Era of Large Language Models"
+    title: "**N**e**u**ro-Symboli**c** **Le**arning **a**nd **R**easoning<br/> in the Era of Large Language Models"
     text: "@ AAAI 2024"
     button: "Submit Your Paper"
     buttonlink: "#call_for_papers"
