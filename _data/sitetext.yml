@@ -101,7 +101,7 @@ en: &DEFAULT_EN
 
         We invite 8-page full paper or 4-page short paper submissions. We also welcome 2-page extended abstracts for the work that is published at AAAI or other venues. The papers should be formatted according to [AAAI conference guidelines](https://aaai.org/aaai-conference/submission-instructions/).
 
-        <br/><div class="text-center">
+        <div class="text-center"><br/>
             <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://openreview.net/group?id=AAAI.org/2024/Workshop/NuCLeaR">OpenReview Submission Page</a>
         </div>
 
