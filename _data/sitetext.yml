@@ -79,14 +79,9 @@ en: &DEFAULT_EN
         - [Start Time , Session                          , Speaker(s)                 ]
         - ["09:00"    , Invited Talks 9 and 10           , TBA                        ]
         - ["09:40"    , Contributed Talks 4 (3-4 papers) , TBA                        ]
-        - ["10:30"    , Invited Talks 11 and 12          , TBA                        ]
-        - ["11:10"    , Contributed Talks 5 (3-4 papers) , TBA                        ]
-        - ["12:00"    , Lunch Break (Poster Setup)       , ""                         ]
-        - ["13:00"    , Invited Talks 13 and 14          , TBA                        ]
-        - ["13:40"    , Contributed Talks 6 (4-5 papers) , TBA                        ]
-        - ["15:00"    , Poster Session 2                 , ""                         ]
-        - ["16:30"    , Invited Talks 15 and 16          , TBA                        ]
-        - ["17:10"    , Panel and Open QA 2              , All Day 2 invited speakers ]
+        - ["10:30"    , Coffee Break (Poster Setup)      , ""                         ]
+        - ["11:00"    , Poster Session 2                 , ""                         ]
+        - ["12:30"    , Panel and Open QA 2              , All Day 2 invited speakers ]
 
   call_for_papers:
     title: "Call for papers"
@@ -99,10 +94,10 @@ en: &DEFAULT_EN
 
         ### Submission instructions
 
-        We invite 8-page full paper or 4-page short paper submissions. We also welcome 2-page extended abstracts for the work that is published at AAAI or other venues. The papers should be formatted according to [AAAI conference guidelines](https://aaai.org/aaai-conference/submission-instructions/).
+        We invite 8-page full paper or 4-page short paper submissions. We also welcome 2-page extended abstracts for work that is published at AAAI or other venues. The papers should be formatted according to [AAAI conference guidelines](https://aaai.org/aaai-conference/submission-instructions/).
 
         <div class="text-center"><br/>
-            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://openreview.net/group?id=AAAI.org/2024/Workshop/NuCLeaR">OpenReview Submission Page</a>
+            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://openreview.net/group?id=AAAI.org/2024/Workshop/NucLeaR">OpenReview Submission Page</a>
         </div>
 
   organizers:

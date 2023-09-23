@@ -26,6 +26,9 @@ header.masthead {
       margin-bottom: 20px;
       @include heading-font;
     }
+    .btn {
+      background-color: rgba(250, 122, 47, 0.65);
+    }
   }
 }
 .btn-xl {
@@ -51,6 +54,9 @@ header.masthead {
         line-height: 75px;
         margin-bottom: 50px;
         @include heading-font;
+      }
+      .btn {
+        background-color: rgba(250, 122, 47, 0.65);
       }
     }
   }
