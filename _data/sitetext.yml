@@ -42,17 +42,20 @@ en: &DEFAULT_EN
     people:
       - name: "Gary Marcus"
         role: "New York University"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/speakers/gary.jpg
+        website: http://garymarcus.com/index.html
       - name: "Parisa Kordjamshidi"
         role: "Michigan State University"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/speakers/parisa.jpg
         website: https://www.cse.msu.edu/~kordjams/
       - name: "David Ferrucci"
         role: "Elemental Cognition"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/speakers/david.jpg
+        website: https://www.linkedin.com/in/david-ferrucci-4a34b0/
       - name: "Luis Lamb"
         role: "Federal University of Rio Grande do Sul"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/speakers/luis.jpg
+        website: https://www.inf.ufrgs.br/~lamb/
     subtext: This list is currently incomplete as we reach out to additional speakers.
 
   schedule:
@@ -88,7 +91,7 @@ en: &DEFAULT_EN
     section: call_for_papers
     body: |
         ### Important dates
-         - Submission deadline: November 15, 23:59 AoE
+         - Submission deadline: November 15, 23:59 [AoE](https://www.timeanddate.com/time/zones/aoe)
          - Acceptance notification: TBA
          - Camera-ready deadline: TBA
 
@@ -108,23 +111,23 @@ en: &DEFAULT_EN
     people:
       - name: "Asim Munawar"
         role: "IBM Research"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/organizers/asim.jpg
         website: https://research.ibm.com/people/asim-munawar
       - name: "Elham J. Barezi"
         role: "Michigan State University"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/organizers/elham.jpg
         website: https://www.linkedin.com/in/elham-barezi-15272453/
       - name: "Pranava Madhyastha"
         role: "City, University of London"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/organizers/pranava.jpg
         website: https://www.city.ac.uk/about/people/academics/pranava-madhyastha
       - name: "Abulhair Saparov"
         role: "New York University"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/organizers/abu.jpg
         website: https://asaparov.org/
       - name: "Alexander Gray"
         role: "IBM Research"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/organizers/alex.jpg
         website: https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Alexander.Gray
 
   #contact:
