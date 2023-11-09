@@ -91,7 +91,7 @@ en: &DEFAULT_EN
     section: call_for_papers
     body: |
         ### Important dates
-         - Submission deadline: ~~November 15~~ November 24, 23:59 [AoE](https://www.timeanddate.com/time/zones/aoe) (NOTE: this will not be extended)
+         - Submission deadline: ~~November 15~~ November 24, 23:59 [AoE](https://www.timeanddate.com/time/zones/aoe) <small>(NOTE: this will not be extended)</small>
          - Acceptance notification: TBA
          - Camera-ready deadline: TBA
 
