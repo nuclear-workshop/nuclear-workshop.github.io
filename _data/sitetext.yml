@@ -56,6 +56,18 @@ en: &DEFAULT_EN
         role: "Federal University of Rio Grande do Sul"
         image: assets/img/speakers/luis.jpg
         website: https://www.inf.ufrgs.br/~lamb/
+      - name: "Jiayuan Mao"
+        role: "Massachusetts Institute of Technology"
+        image: assets/img/speakers/jiayuan.jpg
+        website: https://jiayuanm.com/
+      - name: "Tim Klinger"
+        role: "IBM Research"
+        image: assets/img/speakers/blank.jpg
+        website: https://www.linkedin.com/in/tim-klinger-6351421
+      - name: "Fabio Cozman"
+        role: "Universidade de São Paulo"
+        image: assets/img/speakers/fabio.png
+        website: sites.poli.usp.br/p/fabio.cozman/
     subtext: This list is currently incomplete as we reach out to additional speakers.
 
   schedule:
@@ -67,24 +79,31 @@ en: &DEFAULT_EN
     day1:
         - [Start Time , Session                          , Speaker(s)                 ]
         - ["08:45"    , Opening Welcome Talk             , Workshop organizers        ]
-        - ["09:00"    , Invited Talks 1 and 2            , TBA                        ]
-        - ["09:40"    , Contributed Talks 1 (3-4 papers) , TBA                        ]
-        - ["10:30"    , Invited Talks 3 and 4            , TBA                        ]
-        - ["11:10"    , Contributed Talks 2 (3-4 papers) , TBA                        ]
+        - ["09:00"    , Invited Talk 1                   , Gary Marcus                ]
+        - ["09:30"    , Invited Talk 2                   , Parisa Kordjamshidi        ]
+        - ["10:00"    , Coffee Break                     , ""                         ]
+        - ["10:30"    , Contributed Talks 1              , Papers \#1, \#2, \#3       ]
+        - ["11:00"    , Invited Talk 3                   , TBA                        ]
+        - ["11:30"    , Invited Talk 4                   , TBA                        ]
         - ["12:00"    , Lunch Break (Poster Setup)       , ""                         ]
-        - ["13:00"    , Invited Talks 5 and 6            , TBA                        ]
-        - ["13:40"    , Contributed Talks 3 (4-5 papers) , TBA                        ]
+        - ["13:00"    , Contributed Talks 2              , Papers \#4, \#5, \#6       ]
+        - ["13:30"    , Invited Talk 5                   , TBA                        ]
+        - ["14:00"    , Invited Talk 6                   , TBA                        ]
+        - ["14:30"    , Contributed Talks 3              , Papers \#8, \#10, \#12     ]
         - ["15:00"    , Poster Session 1                 , ""                         ]
-        - ["16:30"    , Invited Talks 7 and 8            , TBA                        ]
-        - ["17:10"    , Panel and Open QA 1              , All Day 1 invited speakers ]
+        - ["16:00"    , Invited Talk 7                   , TBA                        ]
+        - ["16:30"    , Invited Talk 8                   , TBA                        ]
+        - ["17:00"    , Panel and Open QA                , All Day 1 invited speakers ]
 
     day2:
         - [Start Time , Session                          , Speaker(s)                 ]
-        - ["09:00"    , Invited Talks 9 and 10           , TBA                        ]
-        - ["09:40"    , Contributed Talks 4 (3-4 papers) , TBA                        ]
+        - ["09:00"    , Invited Talk 9                   , Luis Lamb                  ]
+        - ["09:30"    , Invited Talk 10                  , Elemental Cognition        ]
+        - ["10:00"    , Contributed Talks 4              , Papers \#13, \#14, \#15    ]
         - ["10:30"    , Coffee Break (Poster Setup)      , ""                         ]
-        - ["11:00"    , Poster Session 2                 , ""                         ]
-        - ["12:30"    , Panel and Open QA 2              , All Day 2 invited speakers ]
+        - ["11:00"    , Contributed Talks 5              , Papers \#17, \#19, \#21    ]
+        - ["11:30"    , Closing                          , Workshop organizers        ]
+        - ["11:45"    , Poster Session 2                 , ""                         ]
 
   call_for_papers:
     title: "Call for papers"
