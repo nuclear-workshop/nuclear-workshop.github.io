@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         website: https://www.linkedin.com/in/tim-klinger-6351421
       - name: "Fabio Cozman"
         role: "Universidade de São Paulo"
-        image: assets/img/speakers/fabio.png
+        image: assets/img/speakers/fabio.jpg
         website: sites.poli.usp.br/p/fabio.cozman/
     subtext: This list is currently incomplete as we reach out to additional speakers.
 
@@ -82,14 +82,14 @@ en: &DEFAULT_EN
         - ["09:00"    , Invited Talk 1                   , Gary Marcus                ]
         - ["09:30"    , Invited Talk 2                   , Parisa Kordjamshidi        ]
         - ["10:00"    , Coffee Break                     , ""                         ]
-        - ["10:30"    , Contributed Talks 1              , Papers \#1, \#2, \#3       ]
+        - ["10:30"    , Contributed Talks 1              , "Papers #17, #4, #19"      ]
         - ["11:00"    , Invited Talk 3                   , TBA                        ]
         - ["11:30"    , Invited Talk 4                   , TBA                        ]
         - ["12:00"    , Lunch Break (Poster Setup)       , ""                         ]
-        - ["13:00"    , Contributed Talks 2              , Papers \#4, \#5, \#6       ]
+        - ["13:00"    , Contributed Talks 2              , "Papers #8, #14, #1"       ]
         - ["13:30"    , Invited Talk 5                   , TBA                        ]
         - ["14:00"    , Invited Talk 6                   , TBA                        ]
-        - ["14:30"    , Contributed Talks 3              , Papers \#8, \#10, \#12     ]
+        - ["14:30"    , Contributed Talks 3              , "Papers #3, #15, #2"       ]
         - ["15:00"    , Poster Session 1                 , ""                         ]
         - ["16:00"    , Invited Talk 7                   , TBA                        ]
         - ["16:30"    , Invited Talk 8                   , TBA                        ]
@@ -99,9 +99,9 @@ en: &DEFAULT_EN
         - [Start Time , Session                          , Speaker(s)                 ]
         - ["09:00"    , Invited Talk 9                   , Luis Lamb                  ]
         - ["09:30"    , Invited Talk 10                  , Elemental Cognition        ]
-        - ["10:00"    , Contributed Talks 4              , Papers \#13, \#14, \#15    ]
+        - ["10:00"    , Contributed Talks 4              , "Papers #21, #13, #6"      ]
         - ["10:30"    , Coffee Break (Poster Setup)      , ""                         ]
-        - ["11:00"    , Contributed Talks 5              , Papers \#17, \#19, \#21    ]
+        - ["11:00"    , Contributed Talks 5              , "Papers #5, #12, #10"      ]
         - ["11:30"    , Closing                          , Workshop organizers        ]
         - ["11:45"    , Poster Session 2                 , ""                         ]
 
