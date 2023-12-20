@@ -56,10 +56,10 @@ en: &DEFAULT_EN
         role: "Federal University of Rio Grande do Sul"
         image: assets/img/speakers/luis.jpg
         website: https://www.inf.ufrgs.br/~lamb/
-      - name: "Jiayuan Mao"
-        role: "Massachusetts Institute of Technology"
-        image: assets/img/speakers/jiayuan.jpg
-        website: https://jiayuanm.com/
+      #- name: "Jiayuan Mao"
+        #role: "Massachusetts Institute of Technology"
+        #image: assets/img/speakers/jiayuan.jpg
+        #website: https://jiayuanm.com/
       - name: "Tim Klinger"
         role: "IBM Research"
         image: assets/img/speakers/blank.jpg
@@ -67,7 +67,11 @@ en: &DEFAULT_EN
       - name: "Fabio Cozman"
         role: "Universidade de São Paulo"
         image: assets/img/speakers/fabio.jpg
-        website: sites.poli.usp.br/p/fabio.cozman/
+        website: http://sites.poli.usp.br/p/fabio.cozman/
+      - name: "Benjamin Grosof"
+        role: "Defense Advanced Research Projects Agency"
+        image: assets/img/speakers/benjamin.jpg
+        website: https://benjamingrosof.com/
     subtext: This list is currently incomplete as we reach out to additional speakers.
 
   schedule:
