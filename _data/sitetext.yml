@@ -43,19 +43,19 @@ en: &DEFAULT_EN
     papers:
         - ["Domain Specific Question Answering Over Knowledge Graphs Using Logical Programming and Large Language Models", "Navid Madani, Kenneth Joseph, Rohini K. Srihari", "https://openreview.net/pdf?id=ohixFcMzEr"]
         - ["TaxoKnow: Taxonomy as Prior Knowledge in the Loss Function of Multi-class Classification", "Mohsen Pourvali, Yao Meng, Chen Sheng, Yangzhou Du", "https://openreview.net/pdf?id=1wlEOltnRP"]
-        - [“Towards Generalization in Subitizing with Neuro-Symbolic Loss using Holographic Reduced Representations”,  “Mohammad Mahmudul Alam, Edward Raff, Tim Oates”, “https://openreview.net/pdf?id=AOAP8sLYdt”]
-        - [“Learning Safety Constraints From Demonstration Using One-Class Decision Trees”, “Mattijs Baert, Sam Leroux, Pieter Simoens”, “https://openreview.net/pdf?id=dxUi16pvub”]
-        - [“Plan-SOFAI: A Neuro-Symbolic Planning Architecture”,  “Francesco Fabiano, Vishal Pallagani, Marianna Bergamaschi Ganapini, Lior Horesh, Andrea Loreggia, Keerthiram Murugesan, Francesca Rossi, Biplav Srivastava”, “https://openreview.net/pdf?id=ORAhay0H4x”]
-        - [“Fine-Tuning Language Models Using Formal Methods Feedback”, “Yunhao Yang, Neel P. Bhatt, Tyler Ingebrand, William Ward, Steven Carr, Zhangyang Wang, ufuk topcu”, “https://openreview.net/pdf?id=fWkTKHWfie”]
-        - [“Improving Multi-Hop Reasoning in LLMs by Learning from Rich Human Feedback”, “Nitish Joshi, Koushik Kalyanaraman, Zhiting Hu, Kumar Chellapilla, He He, Li Erran Li”, “https://openreview.net/pdf?id=wxfqhp9bNR”]
-        - [“Counting Reward Automata: Sample Efficient Reinforcement Learning Through The Exploitation of Reward Function Structure”, “Tristan Bester, Benjamin Rosman, Steven James, Geraud Nangue Tasse”,  “https://openreview.net/pdf?id=XfXLM8uIxH”]
-        - [“DeiSAM: Segment Anything with Deictic Prompting”, “Hikaru Shindo, Manuel Brack, Gopika Sudhakaran, Devendra Singh Dhami, Patrick Schramowski, Kristian Kersting”,  “https://openreview.net/pdf?id=GBnqDrq3NZ”]
-        - [“CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks”,  “Mete Ismayilzada, Debjit Paul, Syrielle Montariol, Mor Geva, Antoine Bosselut”,”https://openreview.net/pdf?id=YdqBil0XeS” ]
-        - [“Towards Consistent Language Models Using Declarative Constraints”, “Jasmin Mousavi”, “https://openreview.net/pdf?id=UQTGlkr30Y”]
-        - [“ChatLogic: Integrating Logic Programming with Large Language Models for Multi-step Reasoning”, “Zhongsheng Wang, Jiamou Liu, Qiming Bao, Hongfei Rong, Jingfeng Zhang”, “https://openreview.net/pdf?id=AOqGF7Po7Z”]
-        - [“Combining Case-Based Reasoning with Deep Learning: Context and Ongoing Case Feature Learning Research”, “David Leake, Zachary Wilkerson, David J. Crandall”, “https://openreview.net/pdf?id=nc9XqnaLys”]
-        - [“RDR: The Recap, Deliberate, and Respond Method for Enhanced Language Understanding”, “Yuxin Zi, Hariram Veeramani, Kaushik Roy, Amit P. Sheth”,  “https://openreview.net/pdf?id=hNQJI0KS3T”]
-        - [“Neuro-Symbolic Representations of 3D Scenes using Universal Scene Description Language”, “M Shifat Hossain, Md Rubel Ahmed, Laura Pullum, Sumit Jha, Rickard Ewetz”, “https://openreview.net/pdf?id=InxGeYjPDn” ]
+        - ["Towards Generalization in Subitizing with Neuro-Symbolic Loss using Holographic Reduced Representations",  "Mohammad Mahmudul Alam, Edward Raff, Tim Oates", "https://openreview.net/pdf?id=AOAP8sLYdt"]
+        - ["Learning Safety Constraints From Demonstration Using One-Class Decision Trees", "Mattijs Baert, Sam Leroux, Pieter Simoens", "https://openreview.net/pdf?id=dxUi16pvub"]
+        - ["Plan-SOFAI: A Neuro-Symbolic Planning Architecture",  "Francesco Fabiano, Vishal Pallagani, Marianna Bergamaschi Ganapini, Lior Horesh, Andrea Loreggia, Keerthiram Murugesan, Francesca Rossi, Biplav Srivastava", "https://openreview.net/pdf?id=ORAhay0H4x"]
+        - ["Fine-Tuning Language Models Using Formal Methods Feedback", "Yunhao Yang, Neel P. Bhatt, Tyler Ingebrand, William Ward, Steven Carr, Zhangyang Wang, ufuk topcu", "https://openreview.net/pdf?id=fWkTKHWfie"]
+        - ["Improving Multi-Hop Reasoning in LLMs by Learning from Rich Human Feedback", "Nitish Joshi, Koushik Kalyanaraman, Zhiting Hu, Kumar Chellapilla, He He, Li Erran Li", "https://openreview.net/pdf?id=wxfqhp9bNR"]
+        #- ["Counting Reward Automata: Sample Efficient Reinforcement Learning Through The Exploitation of Reward Function Structure", "Tristan Bester, Benjamin Rosman, Steven James, Geraud Nangue Tasse",  "https://openreview.net/pdf?id=XfXLM8uIxH"]
+        - ["DeiSAM: Segment Anything with Deictic Prompting", "Hikaru Shindo, Manuel Brack, Gopika Sudhakaran, Devendra Singh Dhami, Patrick Schramowski, Kristian Kersting",  "https://openreview.net/pdf?id=GBnqDrq3NZ"]
+        - ["CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks",  "Mete Ismayilzada, Debjit Paul, Syrielle Montariol, Mor Geva, Antoine Bosselut","https://openreview.net/pdf?id=YdqBil0XeS" ]
+        #- ["Towards Consistent Language Models Using Declarative Constraints", "Jasmin Mousavi", "https://openreview.net/pdf?id=UQTGlkr30Y"]
+        - ["ChatLogic: Integrating Logic Programming with Large Language Models for Multi-step Reasoning", "Zhongsheng Wang, Jiamou Liu, Qiming Bao, Hongfei Rong, Jingfeng Zhang", "https://openreview.net/pdf?id=AOqGF7Po7Z"]
+        - ["Combining Case-Based Reasoning with Deep Learning: Context and Ongoing Case Feature Learning Research", "David Leake, Zachary Wilkerson, David J. Crandall", "https://openreview.net/pdf?id=nc9XqnaLys"]
+        - ["RDR: The Recap, Deliberate, and Respond Method for Enhanced Language Understanding", "Yuxin Zi, Hariram Veeramani, Kaushik Roy, Amit P. Sheth",  "https://openreview.net/pdf?id=hNQJI0KS3T"]
+        - ["Neuro-Symbolic Representations of 3D Scenes using Universal Scene Description Language", "M Shifat Hossain, Md Rubel Ahmed, Laura Pullum, Sumit Jha, Rickard Ewetz", "https://openreview.net/pdf?id=InxGeYjPDn" ]
 
   speakers:
     title: "Invited speakers"
@@ -127,8 +127,6 @@ en: &DEFAULT_EN
         - ["11:30"    , Invited Talk 7                   , TBA                             ]
         - ["12:00"    , Invited Talk 8                   , TBA                             ]
         - ["12:30"    , Closing                          , Workshop organizers             ]
-
-# TODO: add camera readies, dont include #10 and #14 for now
 
   call_for_papers:
     title: "Call for papers"
