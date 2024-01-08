@@ -1,6 +1,6 @@
 <!-- Accepted papers -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
-<section class="page-section" id="{{ site.data.sitetext[site.locale].accepted_papers.section | default: "accepted_papers" }}">
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].accepted_papers.section | default: "accepted_papers" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -27,7 +27,7 @@
   </div>
 </section>
 {% else %}
-<section class="page-section" id="{{ site.data.sitetext.accepted_papers.section | default: "accepted_papers" }}">
+<section class="bg-light page-section" id="{{ site.data.sitetext.accepted_papers.section | default: "accepted_papers" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
