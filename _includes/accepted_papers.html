@@ -1,0 +1,57 @@
+<!-- Accepted papers -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+<section class="page-section" id="{{ site.data.sitetext[site.locale].accepted_papers.section | default: "accepted_papers" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].accepted_papers.title | default: "Accepted papers" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].accepted_papers.text | default: "" }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="large text-muted">
+          <table class="table table-hover">
+            <tbody>
+              {% for row in site.data.sitetext[site.locale].accepted_papers.day1 %}
+              <tr>
+                <td> {{ row[0] }} <br/> {{ row[1] }} </td>
+                <td> <a href="{{row[2]}}" target="_blank">[PDF]</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="page-section" id="{{ site.data.sitetext.accepted_papers.section | default: "accepted_papers" }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.accepted_papers.title | default: "Accepted papers" }}</h2>
+        <h3 class="section-subheading text-muted">{{ site.data.sitetext.accepted_papers.text | default: "" }}</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="large text-muted">
+          <table class="table table-hover">
+            <tbody>
+              {% for row in site.data.sitetext[site.locale].accepted_papers.day1 %}
+              <tr>
+                <td> {{ row[0] }} <br/> {{ row[1] }} </td>
+                <td> <a href="{{row[2]}}" target="_blank">[PDF]</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- End Accepted papers -->
