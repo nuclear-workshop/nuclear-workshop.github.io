@@ -38,8 +38,7 @@ en: &DEFAULT_EN
   accepted_papers:
     title: "Accepted papers"
     section: accepted_papers
-    body: |
-        The following schedule is tentative.
+    body: ""
 
     papers:
         - ["Domain Specific Question Answering Over Knowledge Graphs Using Logical Programming and Large Language Models", "Navid Madani, Kenneth Joseph, Rohini K. Srihari", "https://openreview.net/pdf?id=ohixFcMzEr"]
@@ -87,8 +86,7 @@ en: &DEFAULT_EN
   schedule:
     title: "Schedule"
     section: schedule
-    body: |
-        The following schedule is tentative.
+    body: ""
 
     day1:
         - [Start Time , Session                          , Speaker(s)                      ]
