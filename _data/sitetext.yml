@@ -42,8 +42,8 @@ en: &DEFAULT_EN
         The following schedule is tentative.
 
     papers:
-        - ["Domain Specific Question Answering Over Knowledge Graphs Using Logical Programming and Large Language Models", "Navid Madani, Kenneth Joseph, Rohini K. Srihari", https://openreview.net/pdf?id=ohixFcMzEr]
-        - ["TaxoKnow: Taxonomy as Prior Knowledge in the Loss Function of Multi-class Classification", "Mohsen Pourvali, Yao Meng, Chen Sheng, Yangzhou Du", https://openreview.net/pdf?id=1wlEOltnRP]
+        - ["Domain Specific Question Answering Over Knowledge Graphs Using Logical Programming and Large Language Models", "Navid Madani, Kenneth Joseph, Rohini K. Srihari", "https://openreview.net/pdf?id=ohixFcMzEr"]
+        - ["TaxoKnow: Taxonomy as Prior Knowledge in the Loss Function of Multi-class Classification", "Mohsen Pourvali, Yao Meng, Chen Sheng, Yangzhou Du", "https://openreview.net/pdf?id=1wlEOltnRP"]
 
   speakers:
     title: "Invited speakers"
