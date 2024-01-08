@@ -13,9 +13,9 @@
         <div class="large text-muted">
           <table class="table table-hover">
             <tbody>
-              {% for row in site.data.sitetext[site.locale].accepted_papers.day1 %}
+              {% for row in site.data.sitetext[site.locale].accepted_papers.papers %}
               <tr>
-                <td> {{ row[0] }} <br/> {{ row[1] }} </td>
+                <td> <p class="font-weight-bold">{{ row[0] }}</p> <p>{{ row[1] }}</p> </td>
                 <td> <a href="{{row[2]}}" target="_blank">[PDF]</td>
               </tr>
               {% endfor %}
@@ -40,9 +40,9 @@
         <div class="large text-muted">
           <table class="table table-hover">
             <tbody>
-              {% for row in site.data.sitetext[site.locale].accepted_papers.day1 %}
+              {% for row in site.data.sitetext[site.locale].accepted_papers.papers %}
               <tr>
-                <td> {{ row[0] }} <br/> {{ row[1] }} </td>
+                <td> <p class="font-weight-bold">{{ row[0] }}</p> <p>{{ row[1] }}</p> </td>
                 <td> <a href="{{row[2]}}" target="_blank">[PDF]</td>
               </tr>
               {% endfor %}
