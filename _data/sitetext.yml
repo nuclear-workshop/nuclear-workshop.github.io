@@ -145,11 +145,11 @@ en: &DEFAULT_EN
             <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://openreview.net/group?id=AAAI.org/2024/Workshop/NuCLeaR">OpenReview Submission Page</a>
         </div>
 
-  organizers:
-    title: "Workshop organizers"
+  program_committee:
+    title: "Program committee"
     #text: "Lorem ipsum dolor sit amet consectetur."
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: organizers
+    section: program_committee
     people:
       - name: "Asim Munawar"
         role: "IBM Research"
@@ -171,6 +171,34 @@ en: &DEFAULT_EN
         role: "IBM Research"
         image: assets/img/organizers/alex.jpg
         website: https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Alexander.Gray
+    reviewer_text: We thank the program committee for their thoughtful reviews!
+    reviewers:
+      - name: Mukul Singh
+      - name: Reza Shahbazian
+      - name: Paul Brunk
+      - name: Sayan Ghosh
+      - name: Marios Thoma
+      - name: Shaswata Mitra
+      - name: Emile van Krieken
+      - name: Michael S P Miller
+      - name: Partha Pratim Saha
+      - name: Inas Bachiri
+      - name: Jinyu Hou
+      - name: Suhas Chelian
+      - name: Kinjal Basu
+      - name: Savitha Sam Abraham
+      - name: Yong Liu
+      - name: Muneeza Azmat
+      - name: Anirudh Khatry
+      - name: Caleb Schultz Kisby
+      - name: Hanna Abi Akl
+      - name: Qiming Bao
+      - name: Haohong Lin
+      - name: Shayekh Bin Islam
+      - name: Marjan Alirezaie
+      - name: Ruben Ruiz-Torrubiano
+      - name: Nudrat Nida
+      - name: Sarathkrishna Swaminathan
 
   #contact:
     #title: "Contact Us"

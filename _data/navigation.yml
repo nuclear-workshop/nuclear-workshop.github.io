@@ -19,8 +19,8 @@ en: &DEFAULT_EN
       section: schedule
     - title: "Call"
       section: call_for_papers
-    - title: "Organizers"
-      section: organizers
+    - title: "Program committee"
+      section: program_committee
 en-US:
   <<: *DEFAULT_EN
 en-CA:
