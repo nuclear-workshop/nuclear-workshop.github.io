@@ -171,7 +171,7 @@ en: &DEFAULT_EN
         role: "IBM Research"
         image: assets/img/organizers/alex.jpg
         website: https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Alexander.Gray
-    reviewer_text: We thank the program committee for their thoughtful reviews!
+    reviewer_text: We sincerely thank the program committee for their considered and thoughtful reviews!
     reviewers:
       - name: Mukul Singh
       - name: Reza Shahbazian
