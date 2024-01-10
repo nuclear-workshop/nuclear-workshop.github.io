@@ -1,14 +1,14 @@
 <!-- Program committee -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
 <section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].program_committee.section | default: "program_committee" }}">
-<div class="container">
+<div class="container text-center">
   <div class="row">
 	<div class="col-lg-12 text-center">
 	  <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].program_committee.title }}</h2>
 	  <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].program_committee.text }}</h3>
 	</div>
   </div>
-  <h3 class="text-muted">Workshop organizers</h3>
+  <h3 class="text-muted">Workshop organizers</h3><br/><br/>
   <div class="row d-flex justify-content-center">
   {% for person in site.data.sitetext[site.locale].program_committee.people %}
 	<div class="col-sm-4">
@@ -74,14 +74,14 @@
 </section>
 {% else %}
 <section class="bg-light page-section" id="{{ site.data.sitetext.program_committee.section | default: "program_committee" }}">
-	<div class="container">
+	<div class="container text-center">
 	  <div class="row">
 		<div class="col-lg-12 text-center">
 		  <h2 class="section-heading text-uppercase">{{ site.data.sitetext.program_committee.title }}</h2>
 		  <h3 class="section-subheading text-muted">{{ site.data.sitetext.program_committee.text }}</h3>
 		</div>
 	  </div>
-	  <h3 class="text-muted">Workshop organizers</h3>
+	  <h3 class="text-muted">Workshop organizers</h3><br/><br/>
 	  <div class="row d-flex justify-content-center">
 	  {% for person in site.data.sitetext.program_committee.people %}
 		<div class="col-sm-4">
