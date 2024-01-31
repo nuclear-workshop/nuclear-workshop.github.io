@@ -94,7 +94,7 @@ en: &DEFAULT_EN
         role: "Defense Advanced Research Projects Agency"
         image: assets/img/speakers/benjamin.jpg
         website: https://benjamingrosof.com/
-    subtext: This list is currently incomplete as we reach out to additional speakers.
+    subtext: #This list is currently incomplete as we reach out to additional speakers.
 
   schedule:
     title: "Schedule"
