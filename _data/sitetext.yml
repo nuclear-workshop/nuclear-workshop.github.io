@@ -51,7 +51,7 @@ en: &DEFAULT_EN
         - ["Counting Reward Automata: Sample Efficient Reinforcement Learning Through The Exploitation of Reward Function Structure", "Tristan Bester, Benjamin Rosman, Steven James, Geraud Nangue Tasse",  "https://openreview.net/pdf?id=XfXLM8uIxH"]
         - ["DeiSAM: Segment Anything with Deictic Prompting", "Hikaru Shindo, Manuel Brack, Gopika Sudhakaran, Devendra Singh Dhami, Patrick Schramowski, Kristian Kersting",  "https://openreview.net/pdf?id=GBnqDrq3NZ"]
         - ["CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks",  "Mete Ismayilzada, Debjit Paul, Syrielle Montariol, Mor Geva, Antoine Bosselut","https://openreview.net/pdf?id=YdqBil0XeS" ]
-        - ["Toward Consistent Language Models Using Controlled Prompting and Decoding", "Jasmin Mousavi, Arash Termehchy", "https://openreview.net/pdf?id=UQTGlkr30Y"]
+        - ["Towards Consistent Language Models Using Controlled Prompting and Decoding", "Jasmin Mousavi, Arash Termehchy", "https://openreview.net/pdf?id=UQTGlkr30Y"]
         - ["ChatLogic: Integrating Logic Programming with Large Language Models for Multi-step Reasoning", "Zhongsheng Wang, Jiamou Liu, Qiming Bao, Hongfei Rong, Jingfeng Zhang", "https://openreview.net/pdf?id=AOqGF7Po7Z"]
         - ["Combining Case-Based Reasoning with Deep Learning: Context and Ongoing Case Feature Learning Research", "David Leake, Zachary Wilkerson, David J. Crandall", "https://openreview.net/pdf?id=nc9XqnaLys"]
         - ["RDR: The Recap, Deliberate, and Respond Method for Enhanced Language Understanding", "Yuxin Zi, Hariram Veeramani, Kaushik Roy, Amit P. Sheth",  "https://openreview.net/pdf?id=hNQJI0KS3T"]
