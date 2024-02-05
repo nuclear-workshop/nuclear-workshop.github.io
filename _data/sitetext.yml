@@ -84,7 +84,7 @@ en: &DEFAULT_EN
         #website: https://jiayuanm.com/
       - name: "Tim Klinger"
         role: "IBM Research"
-        image: assets/img/speakers/blank.jpg
+        image: assets/img/speakers/tim.jpg
         website: https://www.linkedin.com/in/tim-klinger-6351421
       - name: "Fabio Cozman"
         role: "Universidade de São Paulo"
@@ -124,7 +124,7 @@ en: &DEFAULT_EN
         - ["10:00"    , Contributed Talks 3              , "Papers #12, #10, #17, #4, #19" ]
         - ["10:30"    , Coffee Break (Poster Setup)      , ""                              ]
         - ["11:00"    , Poster Session 2                 , ""                              ]
-        - ["11:30"    , Invited Talk 7                   , TBA                             ]
+        - ["11:30"    , Invited Talk 7                   , Tim Klinger                     ]
         - ["12:00"    , Invited Talk 8                   , TBA                             ]
         - ["12:30"    , Closing                          , Workshop organizers             ]
 
