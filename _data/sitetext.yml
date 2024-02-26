@@ -125,7 +125,7 @@ en: &DEFAULT_EN
         - ["10:00"    , Contributed Talks 3              , "Papers #12, #10, #17, #4, #19" ]
         - ["10:30"    , Coffee Break (Poster Setup)      , ""                              ]
         - ["11:00"    , Poster Session 2                 , ""                              ]
-        - ["12:30"    , Closing                          , Workshop organizers             ]
+        - ["11:30"    , Closing                          , Workshop organizers             ]
 
   call_for_papers:
     title: "Call for papers"
