@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "About"
     section: about
     body: |
-        Note: Please see [this playlist](https://www.youtube.com/playlist?list=PLt-aI0fLbqH-W-YIsf5AQ07G616lQzNpC) for recordings of presentations that we were not able to show during the workshop due to permissions and techical issues.
+        **Note:** Please see [this playlist](https://www.youtube.com/playlist?list=PLt-aI0fLbqH-W-YIsf5AQ07G616lQzNpC) for recordings of presentations that we were not able to show during the workshop due to permissions and techical issues. Recordings were shown of papers whose authors were not able to attend the workshop in-person.
 
         We are thrilled to announce the Workshop on **N**e**u**ro-Symboli**c** **Le**arning **a**nd **R**easoning in the Era of Large Language Models at AAAI 2024 to be held on **February 26-27, 2024**. This workshop aims to provide a dedicated platform for researchers to present and share their cutting-edge advancements in the next generation of neuro-symbolic AI. By creating an environment conducive to knowledge exchange and the exploration of innovative ideas, we aim to foster collaboration and inspire new breakthroughs. We invite submissions on topics and questions related to neuro-symbolic AI, including but not limited to:
         - Survey of recent neuro-symbolic AI methods and applications
