@@ -7,6 +7,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+  min-height: 100vh;
   .intro-text {
     margin-top: 55px;
     padding-top: 45px;
@@ -23,7 +24,9 @@ header.masthead {
       font-size: 38px;
       font-weight: 700;
       line-height: 40px;
-      margin-bottom: 20px;
+      text-align: left;
+      width: 450px;
+      margin: 0 auto 20px auto;
       @include heading-font;
     }
     .btn {
@@ -36,6 +39,7 @@ header.masthead {
 }
 @media (min-width: 768px) {
   header.masthead {
+    min-height: 100vh;
     .intro-text {
       margin-top: 0;
       padding-top: 320px;
@@ -52,7 +56,9 @@ header.masthead {
         font-size: 38px;
         font-weight: 700;
         line-height: 38px;
-        margin-bottom: 50px;
+        text-align: left;
+        width: 450px;
+        margin: 0 auto 50px auto;
         @include heading-font;
       }
       .btn {
