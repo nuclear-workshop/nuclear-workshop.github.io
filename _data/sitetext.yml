@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: "**N**e**u**ro-Symboli**c** **Le**arning **a**nd **R**easoning<br/> in the Era of Large Language Models"
     text: |
         # List of Workshops
-         @ [<TBA>](https://nuclear-workshop.github.io/upcoming)\
+         @ [{TBA}](https://nuclear-workshop.github.io/upcoming)\
          @ [AAAI 2024](https://nuclear-workshop.github.io/aaai2024)
 
 en-US:
