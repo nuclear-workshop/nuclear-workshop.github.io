@@ -12,7 +12,8 @@
 en: &DEFAULT_EN
   header:
     title: "**N**e**u**ro-Symboli**c** **Le**arning **a**nd **R**easoning<br/> in the Era of Large Language Models"
-    text: *List of Workshops*
+    text: |
+        *List of Workshops*
         "@" [NeurIPS 2024](https://nuclear-workshop.github.io/neurips2024)
         "@" [AAAI 2024](https://nuclear-workshop.github.io/aaai2024)
 
