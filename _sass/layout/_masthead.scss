@@ -7,7 +7,7 @@ header.masthead {
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  min-height: 100vh;
+  min-height: calc(100dvh - 55px);
   .intro-text {
     margin-top: 55px;
     padding-top: 45px;
